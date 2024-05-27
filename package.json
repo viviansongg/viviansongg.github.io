@@ -1,10 +1,11 @@
 {
   "name": "3d-js-projects",
   "homepage": "https://viviansongg.github.io/",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "start": "react-script start"
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
     "dev": "vite",
