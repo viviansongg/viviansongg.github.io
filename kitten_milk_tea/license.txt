@@ -1,0 +1,11 @@
+Model Information:
+* title:	Kitten milk tea
+* source:	https://sketchfab.com/3d-models/kitten-milk-tea-7dad5bbebeb341cb9d9aa4c4ec299cdc
+* author:	Jom (https://sketchfab.com/jom239300891)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Kitten milk tea" (https://sketchfab.com/3d-models/kitten-milk-tea-7dad5bbebeb341cb9d9aa4c4ec299cdc) by Jom (https://sketchfab.com/jom239300891) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
