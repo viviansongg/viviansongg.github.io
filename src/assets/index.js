@@ -11,6 +11,10 @@ import gmail from "./gmail.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 import bias from "./bias.png"
+import forensics from "./forensics.png"
+import tasuku from "./tasuku.png"
+import pet from "./PetMatchUseCase.png"
+import movie from "./movie.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -25,6 +29,19 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import assembly from ".//tech/assembly.png";
+import c from "./tech/c.png";
+import c_plus from "./tech/c_plus.png";
+import chakra from "./tech/chakra.png";
+import django from "./tech/django.png";
+import flask from "./tech/flask.png";
+import java from "./tech/java.png";
+import mysql from "./tech/mysql.png";
+import photoshop from "./tech/photoshop.png";
+import illustrator from "./tech/illustrator.png";
+import python from "./tech/python.png";
+import r from "./tech/r.png";
+import vite from "./tech/vite.png";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -69,4 +86,21 @@ export {
   cucai,
   qsite,
   bias,
+  forensics,
+  tasuku,
+  movie,
+  pet,
+  assembly,
+  c,
+  c_plus,
+  chakra,
+  django,
+  flask,
+  java,
+  mysql,
+  photoshop,
+  python,
+  r,
+  vite,
+  illustrator,
 };

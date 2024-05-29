@@ -25,6 +25,23 @@ import {
     threejs,
     qsite,
     bias,
+    forensics,
+    tasuku,
+    pet,
+    movie,
+    assembly,
+    c,
+    c_plus,
+    chakra,
+    django,
+    flask,
+    java,
+    mysql,
+    photoshop,
+    python,
+    r,
+    vite,
+    illustrator,
   } from "../assets";
   
   export const navLinks = [
@@ -48,7 +65,7 @@ import {
   
   const services = [
     {
-      title: "Research Assistant",
+      title: "Undergraduate Researcher",
       icon: web,
     },
     {
@@ -58,10 +75,6 @@ import {
     {
       title: "Web Developer",
       icon: backend,
-    },
-    {
-      title: "Python Instructor",
-      icon: creator,
     },
   ];
   
@@ -79,28 +92,40 @@ import {
       icon: javascript,
     },
     {
-      name: "TypeScript",
-      icon: typescript,
+      name: "Java",
+      icon: java,
     },
     {
-      name: "React JS",
+      name: "Python",
+      icon: python,
+    },
+    {
+      name: "C",
+      icon: c,
+    },
+    {
+      name: "C++",
+      icon: c_plus,
+    },
+    {
+      name: "react",
       icon: reactjs,
-    },
-    {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
     },
     {
       name: "Node JS",
       icon: nodejs,
     },
     {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "Chakra",
+      icon: chakra,
+    },
+    {
+      name: "Tailwind CSS",
+      icon: tailwind,
+    },
+    {
+      name: "Django",
+      icon: django,
     },
     {
       name: "Three JS",
@@ -115,8 +140,29 @@ import {
       icon: figma,
     },
     {
-      name: "docker",
-      icon: docker,
+      name: "Flask",
+      icon: flask,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    
+    {
+      name: "R",
+      icon: r,
+    },
+    {
+      name: "Vite",
+      icon: vite,
+    },
+    {
+      name: "Photoshop",
+      icon: photoshop,
+    },
+    {
+      name: "Illustrator",
+      icon: illustrator,
     },
   ];
   
@@ -229,7 +275,7 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: jobit,
+      image: forensics,
       source_code_link: "https://github.com/viviansongg/Forensics-Pursuit",
     },
     {
@@ -246,8 +292,42 @@ import {
           color: "green-text-gradient",
         },
       ],
-      image: tripguide,
+      image: tasuku,
       source_code_link: "https://github.com/viviansongg/tasuku",
+    },
+    {
+      name: "PetPal",
+      description:
+        "An application aimed at facilitating pet adoption and social interaction between pet owners using the Petfinder API.",
+      tags: [
+        {
+          name: "java",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "swing",
+          color: "green-text-gradient",
+        },
+      ],
+      image: pet,
+      source_code_link: "https://github.com/viviansongg/CSC207-PetPal",
+    },
+    {
+      name: "Movie Recommendation System",
+      description:
+        "A movie recommendation system leveraging the graph data structure to model relationships between users, movies, and their attributes.",
+      tags: [
+        {
+          name: "python",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "tkinter",
+          color: "green-text-gradient",
+        },
+      ],
+      image: movie,
+      source_code_link: "https://github.com/viviansongg/CSC111-Project",
     },
 
   ];
