@@ -16,13 +16,15 @@ import {
     figma,
     docker,
     meta,
-    starbucks,
-    tesla,
+    uoft,
+    cucai,
     shopify,
     carrent,
     jobit,
     tripguide,
     threejs,
+    qsite,
+    bias,
   } from "../assets";
   
   export const navLinks = [
@@ -120,55 +122,38 @@ import {
   
   const experiences = [
     {
-      title: "Research Assistant",
+      title: "Undergraduate Researcher",
       company_name: "University of Toronto",
-      icon: starbucks,
+      icon: uoft,
       iconBg: "#383E56",
-      date: "March 2020 - April 2021",
+      date: "May 2024 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Functioning as an undergraduate game design researcher under the supervision of Professor Steve Engels and Dr. Vivienne Luk.",
+        "Utilizing the ren'py framework to model forensics science processes through a playable prototype.",
+        "Designing an attractive user interface and applying principles of game design to optimize client interaction.",
       ],
     },
     {
       title: "Full Stack Developer",
-      company_name: "Tesla",
-      icon: tesla,
+      company_name: "Canadian Undergraduate Conference on Artificial Intelligence (CUCAI)",
+      icon: cucai,
       iconBg: "#E6DEDD",
-      date: "Jan 2021 - Feb 2022",
+      date: "May 2024 - Present",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developing, designing, and managing CUCAI’s official website using React, HTML, CSS and JavaScript prototyped by web designs created on Figma.",
+        "Managing the backend of CUCAI’s application portal using Python.",
       ],
     },
     {
       title: "Web Developer",
-      company_name: "Shopify",
-      icon: shopify,
+      company_name: "Q-SITE",
+      icon: qsite,
       iconBg: "#383E56",
       date: "Jan 2022 - Jan 2023",
       points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
-      ],
-    },
-    {
-      title: "Python Instructor",
-      company_name: "Meta",
-      icon: meta,
-      iconBg: "#E6DEDD",
-      date: "Jan 2023 - Present",
-      points: [
-        "Developing and maintaining web applications using React.js and other related technologies.",
-        "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-        "Implementing responsive design and ensuring cross-browser compatibility.",
-        "Participating in code reviews and providing constructive feedback to other developers.",
+        "Developed and managed the website for Q-SITE, an undergraduate quantum computing conference.",
+        "Used Wix’s full-stack development platform, Velo to build and develop the Q-SITE website, applying web development languages such as HTML, CSS and JavaScript.",
+        "Created and designed website frameworks using Figma.",
       ],
     },
   ];
@@ -202,67 +187,67 @@ import {
   
   const projects = [
     {
-      name: "Car Rent",
+      name: "bias.io",
       description:
-        "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+        "A web-based application that evaluates articles' credibility based on various criteria including key phrases found in the articles, the political reputation of the site, source credibility, author/publisher reliability, site extension and more",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "mongodb",
+          name: "flask",
           color: "green-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "chakra",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "python",
+          color: "yellow-text-gradient",
+        },
+        {
+          name: "gemini",
           color: "pink-text-gradient",
         },
       ],
-      image: carrent,
-      source_code_link: "https://github.com/",
+      image: bias,
+      source_code_link: "https://github.com/viviansongg/bias.io",
     },
     {
-      name: "Job IT",
+      name: "Forensics Pursuit",
       description:
-        "Web application that enables users to search for job openings, view estimated salary ranges for positions, and locate available jobs based on their current location.",
+        "A collection of forensics games, developed to educate forensics students on the process of crime scene analysis.",
       tags: [
         {
-          name: "react",
+          name: "python",
           color: "blue-text-gradient",
         },
         {
-          name: "restapi",
+          name: "ren'py",
           color: "green-text-gradient",
-        },
-        {
-          name: "scss",
-          color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/viviansongg/Forensics-Pursuit",
     },
     {
-      name: "Trip Guide",
+      name: "tasuku",
       description:
-        "A comprehensive travel booking platform that allows users to book flights, hotels, and rental cars, and offers curated recommendations for popular destinations.",
+        "A fully functional project/task management system that allows the user to schedule events, create to-do lists and prioritize tasks.",
       tags: [
         {
-          name: "nextjs",
+          name: "java",
           color: "blue-text-gradient",
         },
         {
-          name: "supabase",
+          name: "javafx",
           color: "green-text-gradient",
-        },
-        {
-          name: "css",
-          color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/viviansongg/tasuku",
     },
 
   ];

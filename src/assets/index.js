@@ -4,8 +4,13 @@ import creator from "./creator.png";
 import mobile from "./mobile.png";
 import web from "./web.png";
 import github from "./github.png";
+import uoft from "./uoft.png"
+import cucai from "./cucai.jpg"
+import qsite from "./qsite.png"
+import gmail from "./gmail.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
+import bias from "./bias.png"
 
 import css from "./tech/css.png";
 import docker from "./tech/docker.png";
@@ -59,4 +64,9 @@ export {
   carrent,
   jobit,
   tripguide,
+  gmail,
+  uoft,
+  cucai,
+  qsite,
+  bias,
 };
