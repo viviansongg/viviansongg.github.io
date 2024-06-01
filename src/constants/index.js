@@ -99,10 +99,10 @@ import {
       name: "Python",
       icon: python,
     },
-    {
-      name: "C",
-      icon: c,
-    },
+    // {
+    //   name: "C",
+    //   icon: c,
+    // },
     {
       name: "C++",
       icon: c_plus,
@@ -115,14 +115,14 @@ import {
       name: "Node JS",
       icon: nodejs,
     },
-    {
-      name: "Chakra",
-      icon: chakra,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
+    // {
+    //   name: "Chakra",
+    //   icon: chakra,
+    // },
+    // {
+    //   name: "Tailwind CSS",
+    //   icon: tailwind,
+    // },
     {
       name: "Django",
       icon: django,
@@ -131,14 +131,14 @@ import {
       name: "Three JS",
       icon: threejs,
     },
-    {
-      name: "git",
-      icon: git,
-    },
-    {
-      name: "figma",
-      icon: figma,
-    },
+    // {
+    //   name: "git",
+    //   icon: git,
+    // },
+    // {
+    //   name: "figma",
+    //   icon: figma,
+    // },
     {
       name: "Flask",
       icon: flask,
@@ -152,18 +152,18 @@ import {
       name: "R",
       icon: r,
     },
-    {
-      name: "Vite",
-      icon: vite,
-    },
-    {
-      name: "Photoshop",
-      icon: photoshop,
-    },
-    {
-      name: "Illustrator",
-      icon: illustrator,
-    },
+    // {
+    //   name: "Vite",
+    //   icon: vite,
+    // },
+    // {
+    //   name: "Photoshop",
+    //   icon: photoshop,
+    // },
+    // {
+    //   name: "Illustrator",
+    //   icon: illustrator,
+    // },
   ];
   
   const experiences = [
