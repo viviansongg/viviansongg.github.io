@@ -65,11 +65,11 @@ import {
   
   const services = [
     {
-      title: "Undergraduate Researcher",
+      title: "Software Developer Intern",
       icon: web,
     },
     {
-      title: "Full Stack Developer",
+      title: "Undergraduate Researcher",
       icon: mobile,
     },
     {
