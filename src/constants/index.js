@@ -168,6 +168,17 @@ import {
   
   const experiences = [
     {
+      title: "Software Developer Intern",
+      company_name: "Prep Doctors",
+      icon: cucai,
+      iconBg: "#E6DEDD",
+      date: "May 2024 - Present",
+      points: [
+        "Developing, designing, and managing CUCAI’s official website using React, HTML, CSS and JavaScript prototyped by web designs created on Figma.",
+        "Managing the backend of CUCAI’s application portal using Python.",
+      ],
+    },
+    {
       title: "Undergraduate Researcher",
       company_name: "University of Toronto",
       icon: uoft,
@@ -179,17 +190,7 @@ import {
         "Designing an attractive user interface and applying principles of game design to optimize client interaction.",
       ],
     },
-    {
-      title: "Full Stack Developer",
-      company_name: "Canadian Undergraduate Conference on Artificial Intelligence (CUCAI)",
-      icon: cucai,
-      iconBg: "#E6DEDD",
-      date: "May 2024 - Present",
-      points: [
-        "Developing, designing, and managing CUCAI’s official website using React, HTML, CSS and JavaScript prototyped by web designs created on Figma.",
-        "Managing the backend of CUCAI’s application portal using Python.",
-      ],
-    },
+    
     {
       title: "Web Developer",
       company_name: "Q-SITE",
