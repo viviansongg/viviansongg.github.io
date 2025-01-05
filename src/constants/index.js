@@ -168,7 +168,7 @@ import {
   
   const experiences = [
     {
-      title: "Undergraduate Researcher",
+      title: "Software Developer Intern",
       company_name: "University of Toronto",
       icon: uoft,
       iconBg: "#383E56",
